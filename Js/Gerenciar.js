@@ -1,0 +1,1 @@
+window.open("Controllers/Rooter.php", "__src");
